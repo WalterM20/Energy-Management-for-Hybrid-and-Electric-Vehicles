@@ -21,6 +21,6 @@ The project explores four distinct control strategies, evolving in complexity an
 * **Drive Cycles Tested:** WLTP, Artemis Motorway (AMDC), Artemis Urban (AUDC), Turin Test Cycle.
 
 ## 📊 Key Results
-* **Fuel Economy:** The Dynamic Programming approach demonstrated the theoretical lower bound for fuel consumption ($ \approx 3.79 l/100km$ on ARDC).
+* **Fuel Economy:** The Dynamic Programming approach demonstrated the theoretical lower bound for fuel consumption (around 3.79 l/100km on ARDC).
 * **Battery Aging:** Introduced an aging-aware cost function in the DP algorithm, achieving a 50% increase in estimated battery life with negligible fuel penalty.
 * **Real-time feasibility:** The A-ECMS proved to be the most viable solution for real-time implementation, offering near-optimal results with low computational cost.
